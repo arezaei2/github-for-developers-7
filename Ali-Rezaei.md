@@ -1,2 +1,2 @@
 ## My first commit in GitHub
-Nice job!
+## You should add your favorite color.
